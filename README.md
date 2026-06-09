@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** 29 May 2026
+**Last updated:** 10 June 2026
 
 This Privacy Policy describes how the **Fund the Wish** mobile application ("the App", "we", "our") handles your information. By using the App, you agree to the practices described below.
 
@@ -46,7 +46,7 @@ The App is not directed to children under 13. We do not knowingly collect data f
 ## Data deletion
 
 Because all your data is stored on your device, you can delete it at any time by:
-1. Using the **Clear data** option inside the App's Settings, or
+1. Returning to the App's starting screen (via Settings → **Back to starting screen**) and tapping the **trash icon** next to "Continue with…" to clear your planner data, or
 2. Deleting the App from your device.
 
 There is nothing for us to delete on our end, because we never had it.
